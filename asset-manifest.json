@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextConverter/static/css/main.3d3e4494.css",
+    "main.js": "/TextConverter/static/js/main.bf35d37b.js",
+    "index.html": "/TextConverter/index.html",
+    "main.3d3e4494.css.map": "/TextConverter/static/css/main.3d3e4494.css.map",
+    "main.bf35d37b.js.map": "/TextConverter/static/js/main.bf35d37b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3e4494.css",
+    "static/js/main.bf35d37b.js"
+  ]
+}
